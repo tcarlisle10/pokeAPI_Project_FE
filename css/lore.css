@@ -1,0 +1,17 @@
+body {
+    background-image: url('https://w0.peakpx.com/wallpaper/633/450/HD-wallpaper-original-151-pokemon-gen-1-characters.jpg');
+}
+
+.lore-card {
+    border: 2px solid #000; 
+    border-radius: 10px;
+    height: 100%; 
+    display: flex; 
+    flex-direction: column;
+}
+
+header {
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/699/640/867/red-pikachu-pokeballs-minimalism-wallpaper-preview.jpg');
+    background-position: center;
+    color:rgb(32, 178, 218);
+}

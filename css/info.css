@@ -1,0 +1,15 @@
+body {
+    background-image: url('https://i.pinimg.com/736x/7a/b9/f0/7ab9f0625d1e0b228c6240e73f9e60c0.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+  
+.pokemon-card img {
+    max-width: 150px;
+    margin: 10px auto;
+}
+.pokemon-card {
+    margin: auto;
+    max-width: 400px;
+}
